@@ -62,5 +62,5 @@ with optimized fields, card templates, and theme-aware styling.
 - **Front:** Word only  
 - **Back:** Translation + Example
 
-The note type is distributed as:
+The note type is distributed as: llm-vocab-note-type.apkg
 
