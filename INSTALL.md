@@ -10,10 +10,6 @@ AnkiMobile (iOS) and AnkiDroid (Android) do not support add-ons.
 
 1. Download the add-on file:
 anki-llm-vocabulary.ankiaddon
-
-markdown
-Copy code
-from **Releases**
 2. Open **Anki Desktop**
 3. Go to **Tools → Add-ons**
 4. Click **Install from file**
@@ -24,24 +20,15 @@ After restart, the add-on will appear in **Tools → Add-ons**.
 
 ---
 
-## Import the recommended card format (optional but recommended)
+## Import the recommended card format (recommended)
 
 For the best user experience, import the prepared note type:
 
 1. Download:
 llm-vocab-note-type.apkg
-
-markdown
-Copy code
-from **Releases**
 2. Open **Anki Desktop**
 3. Double-click the file (or use **File → Import**)
 4. Use this note type when adding new vocabulary
-
-This ensures:
-- correct fields
-- clean front/back layout
-- consistent appearance in light and dark mode
 
 ---
 
