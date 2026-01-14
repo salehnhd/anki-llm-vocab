@@ -1,6 +1,7 @@
 # Installation (Anki Desktop)
 
-This add-on runs **only on Anki Desktop** (Windows, macOS, Linux).  
+This add-on runs **only on Anki Desktop** (tried on Windows 11, Version ⁨25.09.2 (3890e12c)⁩
+Python 3.13.5 Qt 6.9.1 Chromium 122).  
 AnkiMobile (iOS) and AnkiDroid (Android) do not support add-ons.
 
 ---
