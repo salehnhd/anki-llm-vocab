@@ -64,3 +64,10 @@ with optimized fields, card templates, and theme-aware styling.
 
 The note type is distributed as: llm-vocab-note-type.apkg
 
+
+## Author
+
+Developed by **Saleh Hamed**, PhD  
+GitHub: [(https://github.com/salehnhd/)]
+
+
